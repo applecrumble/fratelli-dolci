@@ -4,13 +4,16 @@
 
 ## description
 A responsive HTML5 and CSS3 website with an image slider and drop down navigation menu
-Built following tutorial
-- a university course project
-- based on [Drew Ryan's template](https://www.youtube.com/watch?v=2R-qmsvtSaQ).
-- the jQuery slider is created by Mark Tyrrell https://github.com/marktuk/Blueberry
+Built for a university exam following [Drew Ryan's tutorial](https://www.youtube.com/watch?v=2R-qmsvtSaQ)
+
+- 
 
 ## languages and libraries
 
-- This site was built using [Drew Ryan's template](https://www.youtube.com/watch?v=2R-qmsvtSaQ).
+- HTML5
+- CSS3
+- jQuery
+
+the jQuery slider is created by [Mark Tyrrell](https://github.com/marktuk/Blueberry)
 
 ## updates and upgrades
