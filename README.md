@@ -1,5 +1,7 @@
 # Fratelli Dolci
 
+[main page] (https://applecrumble.github.io/fratelli-dolci/)
+
 ## description
 A responsive HTML5 and CSS3 website with an image slider and drop down navigation menu
 Built following tutorial
