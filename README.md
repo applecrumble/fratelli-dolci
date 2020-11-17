@@ -14,6 +14,6 @@ Built for a university exam following [Drew Ryan's tutorial](https://www.youtube
 - CSS3
 - jQuery
 
-the jQuery slider is created by [Mark Tyrrell](https://github.com/marktuk/Blueberry)
+the jQuery *Blueberry* slider is created by [Mark Tyrrell](https://github.com/marktuk/Blueberry)
 
 ## updates and upgrades
