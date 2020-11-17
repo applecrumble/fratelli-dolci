@@ -162,6 +162,7 @@
 
 	ul.social li {
 		display: inline;
+		margin-left: 10px;
 		
 	}
 	ul.social li img {
