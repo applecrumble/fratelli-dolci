@@ -1,4 +1,4 @@
-# Fratelli Dolci
+# Fratelli Dolci :cupcake:
 
 **[main page](https://applecrumble.github.io/fratelli-dolci/)**
 
@@ -17,3 +17,4 @@ Built for a university exam following [Drew Ryan's tutorial](https://www.youtube
 the jQuery *Blueberry* slider is created by [Mark Tyrrell](https://github.com/marktuk/Blueberry)
 
 ## updates and upgrades
+:cupcake:
