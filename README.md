@@ -17,4 +17,8 @@ Built for a university exam following [Drew Ryan's tutorial](https://www.youtube
 the jQuery *Blueberry* slider is created by [Mark Tyrrell](https://github.com/marktuk/Blueberry)
 
 ## updates and upgrades
-:cupcake:
+- changed the colour scheme to make it more suitable for my bakery website project
+- used the `address` tag in the contact information within the `footer` instead of a simple paragraph
+- moved of of all the inline CSS code into an external style sheet
+- used a web safe Google font 'Poiret' instead of a default one
+
